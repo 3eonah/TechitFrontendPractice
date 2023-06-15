@@ -11,5 +11,7 @@ console.log(newnewmbti);    // ['ESFJ','ENFP','ISTJ','INTP']
 //join
 console.log(mbti.join());
 console.log(mbti.join('-'));
+console.log(mbti.join(''));
+
 
 
