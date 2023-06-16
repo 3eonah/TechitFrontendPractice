@@ -22,9 +22,11 @@ function calculateAge() {
     }
 
     elResult.innerText = `${age} 세 입니다.`;
+
 }
 
-elSubmit.addEventListener('click', calculateAge);
+elSubmit.addEventListener("click",calculateAge);
+
 
 
 
